@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.Form1.resources
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.Mainform.resources
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.Pet_Form.resources
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.Pet_Injected.resources
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.Pet_Vaccine.resources
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\bin\Debug\Pet_Vaccination.exe.config
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\bin\Debug\Pet_Vaccination.exe
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\bin\Debug\Pet_Vaccination.pdb
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\bin\Debug\MySql.Data.dll
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.csproj.CopyComplete
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.exe
+C:\Users\HP\OneDrive\Documents\Pet_Vaccination\Pet_Vaccination\obj\Debug\Pet_Vaccination.pdb
